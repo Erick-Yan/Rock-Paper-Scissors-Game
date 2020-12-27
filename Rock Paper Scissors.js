@@ -2,7 +2,7 @@ const userscore = [];
 const compscore = [];
 var compin = new Array();
 compin[0] = 'Rocky';
-compin[1] = 'Paper';
+compin[1] = 'Papery';
 compin[2] = 'Scissor';
 
 function handCount(arr, hand){
