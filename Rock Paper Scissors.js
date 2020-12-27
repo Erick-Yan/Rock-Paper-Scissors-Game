@@ -3,7 +3,7 @@ const compscore = [];
 var compin = new Array();
 compin[0] = 'Rocky';
 compin[1] = 'Paper';
-compin[2] = 'Scissor';
+compin[2] = 'Scissory';
 
 function handCount(arr, hand){
         console.log(hand + ' Probability: ' + arr.filter((h) => (h === hand)).length/arr.length);
