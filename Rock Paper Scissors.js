@@ -1,7 +1,7 @@
 const userscore = [];
 const compscore = [];
 var compin = new Array();
-compin[0] = 'Rock';
+compin[0] = 'Rocky';
 compin[1] = 'Paper';
 compin[2] = 'Scissor';
 
